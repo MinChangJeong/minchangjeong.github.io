@@ -66,22 +66,27 @@ comments: false
         Versioning: SVN \
         DB : Mysql
 
-        ERD 및 DB 설계 \
-        박물관 관람 예약 관리 프로그램 버그 개선 \
-        Spring Scheduler를 이용한 SNS 전송 모듈 전송 기능 구현 \
-        NCloud 알림톡 전송 모듈 버전 v1 -> v2 업데이트 
+        ERD 및 DB 스키마 설계 - DB 테이블 개수 20개 이상. \
+        예약 관리 시스템에서 발생한 예약 가능 일자 조회 버그 수정 
+        Mysql Native Query를 이해하고 쿼리로 인한 버그 수정 \
+        매달 1일 프로그램 예약으로 인해 서버 트래픽 부하 경험 - SNS
+        모듈 전송 로직 다중 스레드, 비동기로 처리 후 전송 내역 DB 저장 \
+        NCloud 알림톡 전송 모듈 버전 v1 -> v2 업데이트 - 문서를 
+        이해하고 코드 작성 가능 \
 
     * <a href="https://amic.tukorea.ac.kr/">한국공학대학교 첨단제조혁신원</a> / 신규 기능 개발
 
         Web Backend: Java, Spring 5.x, MyBatis, Maven \
         Web Frontend: HTML, CSS, Javascript, AngularJs \
-        Versioning: SVN \
+        Versioning: Git Lab \
         DB : Mysql
 
-        ERD 및 DB 설계 \
-        회원 관리 - 일반 회원 관리에서 기업 회원 관리 까지 확장 \
-        온라인 교육 수강 내역 관리 \
-        신규개발 후 클라이언트와 미팅을 위한 기능 사용 설명서 작성 및 발표
+        ERD 및 DB 스키마 설계 - DB 테이블 개수 30개 이상 \
+        온라인 영상 시청 기록 관리 \
+        회원 유형의 확장 회원 가입 및 로그인 기능 고도화 - 일반회원 ->
+        일반회원/기업회원 \
+        신규 기능 개발 후 클라이언트와 미팅에서 결과물에 대한 발표를 
+        진행 \
 
 ---
 
