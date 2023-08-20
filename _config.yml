@@ -1,7 +1,7 @@
 # Site
 title:              정민창
-bio:                '제 블로그에 찾아와 주셔서 감사합니다.'
-description:        "한국공학대학교 컴퓨터공학과"
+bio:                '제 블로그에 찾아와 주셔서 감사합니다. \ 개발을 하면서 발생한 이슈들을 기록하고 관리합니다. '
+description:        "한국공학대학교"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/profile.jpg'
@@ -42,7 +42,7 @@ disqus_shortname:   taylantatli
 # facebook:           username
 github-url:         MinChangJeong
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          민창-정-69a75021b
 #xing:              username
 instagram:          min.c00
 #lastfm:            username
@@ -50,7 +50,7 @@ instagram:          min.c00
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-# steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
