@@ -7,8 +7,6 @@ tags: [message queue, kafka, backend]
 comments: true
 ---
 
-
-
 ## What is Kafka?
 
 Apache Kafka는 실시간 데이터 스트림을 대규모로 수집, 저장 및 처리하는데 사용되는 이벤트 스트리밍 플랫폼이다. 
