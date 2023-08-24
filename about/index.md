@@ -20,11 +20,8 @@ comments: false
 ## Contact
 * phone : 010-9940-9389
 * email : wjdalsckd777@naver.com
-* github : <a href="https://github.com/MinChangJeong
-">MinChangJeong</a>
-* another Blog : <a href="https://jminc00.tistory.com
-">tistory</a>, <a href="https://velog.io/@wjdalsckd45
-">velog</a>  
+* github : <a href="https://github.com/MinChangJeong">MinChangJeong</a>
+* another Blog : <a href="https://jminc00.tistory.com">tistory</a>, <a href="https://velog.io/@wjdalsckd45">velog</a>  
 
 
 ---- 
