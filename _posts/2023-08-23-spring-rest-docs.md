@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Spring REST Docs 적용"
-date: 2023-08-09
+date: 2023-08-23
 excerpt: "Spring Swagger에서 Spring REST Docs로 전환"
 tags: [Spring REST Docs, API, backend]
 comments: true
