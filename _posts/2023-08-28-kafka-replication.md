@@ -7,10 +7,6 @@ tags: [kafka, backend]
 comments: true
 ---
 
-## Kafka와 RabbitMQ의 차이점
-
-내가 내린 **Kafka와 RabbitMQ의 차이점**은 **메시지의 순서 보장 가능성과 대용량 메시지 처리 성능** 인듯 하다. 
-
 ## Kafka의 동작방식
 
 카프카의 핵심 구성요소는 다음과 같다. (카프카의 동작방식을 이해하기 위한 내용이므로 zookeeper를 비롯한 다른 구성요소는 생각하지 않는다.)
