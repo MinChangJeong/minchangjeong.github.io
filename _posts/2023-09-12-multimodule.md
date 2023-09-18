@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "멀티 모듈"
-date: 2023-08-30
+date: 2023-09-12
 excerpt: "우아한테크세미나 멀티모듈 내용 정리"
 tags: [multi module, backend]
 comments: true

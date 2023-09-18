@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "멀티 모듈 프로젝트 설계 - 프로젝트 세팅"
-date: 2023-08-30
+date: 2023-09-16
 excerpt: "각 모듈에 대한 역할과 책임을 분명히 하자"
 tags: [multi module, backend]
 comments: true
