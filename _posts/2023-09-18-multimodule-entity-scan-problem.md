@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "멀티 모듈 - Entity & Repository Scan 실패 문제"
-date: 2023-09-16
-excerpt: "멀티 모듈 프로젝트에서 @Entity / @Repository 빈을 찾지 못하는 이유와 해결 방법"
+date: 2023-09-18
+excerpt: "멀티 모듈 프로젝트에서 Entity / Repository 빈을 찾지 못하는 이유와 해결 방법"
 tags: [multi module, backend]
 comments: true
 ---
