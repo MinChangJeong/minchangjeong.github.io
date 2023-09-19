@@ -22,7 +22,7 @@ Consider defining a bean of type 'com.domain.repository.MarketRepository' in you
 
 모놀리식 프로젝트에서는 만나지 못해서 매우 당황스러운 문제가 발생했다. @Entity와 @Repository 어노테이션이 붙은 Component를 빈으로 등록하지 못하고 있는 문제가 발생했다. (@Entity 어노테이션이 붙은 클래스를 hibernates가 테이블로 생성하지 못하고 있다.)
 
-## 원인은 @SpringBootApplication
+## 원인은 SpringBootApplication 
 
 ```java
 ...
