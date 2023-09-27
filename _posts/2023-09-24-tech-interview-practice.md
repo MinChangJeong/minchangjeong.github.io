@@ -64,7 +64,7 @@ comments: true
 
 ## 알고리즘
 
-1. Map 자료구조를 순환하는 방법
+1. Map 자료구조를 순환하는 방법은?
 
 * for-each 로푸 또는 Iterator를 사용하여 순환할 수 있다. 
 
