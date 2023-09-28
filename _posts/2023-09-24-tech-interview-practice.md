@@ -61,19 +61,3 @@ comments: true
 * 3가지는 역할과 책임에 따라 분류된다. Controller는 웹 브라우저와의 상호작용을, Service는 비즈니스 로직을 구현을, Respoitory는 데이터베이스와 직접적인 상호작용을 담당한다. 
 
 ---
-
-## 알고리즘
-
-1. Map 자료구조를 순환하는 방법은?
-
-* for-each 로푸 또는 Iterator를 사용하여 순환할 수 있다. 
-
-
----- 
-
-
-## 프로그래밍 (JavaScript)
-
-1. Map과 foreach의 차이
-
-* foreach()는 기존의 배열을 반환하고 map()은 새로운 배열을 반환한다. 성능면에서 map이 foreach 보다 빠르고 유리하다. 
