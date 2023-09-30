@@ -2,7 +2,7 @@
 layout: post
 title: "Kafka vs RabbitMq"
 date: 2023-09-28
-excerpt: "Kafka 와 RabbitMq의 차이를 정리하고 Kafka를 언제 써야 하는지 알아보자"
+excerpt: "Kafka 와 RabbitMq의 차이를 정리하고 Kafka를 적용한 이유에 대해 정리"
 tags: [kafka, rabbitmq]
 comments: true
 ---
