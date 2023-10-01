@@ -2,7 +2,7 @@
 layout: post
 title: "기술 면접 대비"
 date: 2023-09-24
-excerpt: "채용 시즌이네요.. 기술 면접 대비 하겠습니다. 질문에 대한 답을 한줄로 정리 하자."
+excerpt: "기술 면접 대비"
 tags: [면접]
 comments: true
 ---
